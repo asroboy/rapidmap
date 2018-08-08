@@ -1,0 +1,37 @@
+.registrasi {
+    background: #F7F7F7;
+}
+
+.registrasi_wrapper {
+    right: 0;
+    margin: 5% auto 0;
+    max-width: 350px;
+    position: relative;
+}
+
+.registrasi-form {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 22;
+}
+
+.registrasi_content {
+    margin: 0 auto;
+    padding: 25px 0 0;
+    position: relative;
+    text-align: center;
+    text-shadow: 0 1px 0 #fff;
+    min-width: 280px;
+}
+
+.judul-registrasi {
+    font: 400 25px Helvetica,Arial,sans-serif;
+    letter-spacing: -.05em;
+    line-height: 20px;
+    margin: 10px 0 5px;
+}
+
+.margin-form {
+    margin-bottom: 0px;
+}

@@ -1,0 +1,176 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+
+.leaflet-map-pane {
+	z-index: 100;
+}
+
+.window {
+    background-color: #277ea2;
+	border-color: #277ea2;
+	font-size: 8pt;
+}
+
+.easyui-layout {
+	font-family: "Roboto";
+}
+
+.text-size {
+	font-size: 9pt;
+}
+
+.panel-header {
+	background-color: #277ea2;
+	border-color: #277ea2;
+}
+
+.panel-body {
+	border: 1px solid #1f76b9;
+}
+
+.layout-expand {
+	background-color: #277ea2;
+}
+
+.accordion .accordion-header-selected {
+	background-color: #277ea2;
+}
+
+.panel-title {
+	color: #ffffff;
+	font-family: "Roboto";
+	font-size: 9pt;
+}
+
+.panel-tool .panel-tool-collapse a {
+	color: #ffffff;
+}
+
+.datagrid-htable {
+	height: 10px;
+}
+
+.datagrid-header .datagrid-cell span{
+	font-family: "Roboto";
+	font-size: 8pt;
+}
+
+.layout-split-east {
+    border-left: 3px solid #277ea2;
+}
+
+.layout-split-west {
+    border-right: 3px solid #277ea2;
+}
+
+.layout-split-south {
+    border-top: 3px solid #277ea2;
+}
+
+.layout-split-north {
+    border-bottom: 3px solid #277ea2;
+}
+
+.text-logo {
+	font-family: "Roboto";
+	font-size: 15pt;
+}
+
+.text-small-logo {
+	font-family: "Roboto";
+	font-size: 8pt;
+}
+
+.icon-accept {
+    background-image: url(../images/layers.png) !important;
+}
+
+.icon-public {
+    background-image: url(../images/icon-public.png) !important;
+}
+
+.icon-map {
+    background-image: url(../images/icon-map.png) !important;
+}
+
+.icon-save {
+    background-image: url(../images/icon-save.png) !important;
+}
+
+.icon-share {
+    background-image: url(../images/icon-share.png) !important;
+}
+
+.icon-home {
+    background-image: url(../images/icon-home.png) !important;
+}
+
+.icon-basemap {
+    background-image: url(../images/icon-basemap.png) !important;
+}
+
+.icon-profile {
+    background-image: url(../images/icon-profile.png) !important;
+}
+
+.icon-logout {
+    background-image: url(../images/icon-logout.png) !important;
+}
+
+.icon-add {
+    background-image: url(../images/icon-add.png) !important;
+}
+
+.icon-delete {
+    background-image: url(../images/icon-delete.png) !important;
+}
+
+.icon-user-edit {
+    background-image: url(../images/icon-user-edit.png) !important;
+}
+
+.icon-gallery {
+    background-image: url(../images/icon-gallery.png) !important;
+}
+
+.icon-news {
+    background-image: url(../images/icon-news.png) !important;
+}
+
+.icon-edit-password {
+    background-image: url(../images/icon-edit-password.png) !important;
+}
+
+.icon-status {
+    background-image: url(../images/icon-status.png) !important;
+}
+
+.icon-search {
+    background-image: url(../images/icon-search.png) !important;
+}
+
+.icon-refresh {
+    background-image: url(../images/icon-refresh.png) !important;
+}
+
+.icon-edit {
+    background-image: url(../images/icon-edit.png) !important;
+}
+
+.icon-upload {
+    background-image: url(../images/icon-upload.png) !important;
+}
+
+.icon-analysis {
+    background-image: url(../images/icon-analysis.png) !important;
+}
+
+.align-middle { 
+	vertical-align: middle; 
+}
+
+.img-contact {
+	margin-bottom: 5px;
+	width: 110px;
+	height: 110px;
+	border: 1px solid #99bbe8;
+}
